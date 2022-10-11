@@ -1,6 +1,8 @@
 # L Collins Challenge One
 
 Challenge 1 is due June 27th
+Repo-https://github.com/Collins418/LCollins-Challenge-1
+Deploy- https://collins418.github.io/LCollins-Challenge-1/
 
 ## This demonstrates the design, accessibility and functionality
 
